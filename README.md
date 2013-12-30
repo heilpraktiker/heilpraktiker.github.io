@@ -1,6 +1,6 @@
-# fheemeyer.github.io
+# heilpraktiker.github.io
 
-Page of my mother built using jekyllbootstrap & the-minimum theme.
+Page of mine built using jekyllbootstrap & the-minimum theme.
 
 ## License
 
