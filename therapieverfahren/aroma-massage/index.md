@@ -1,6 +1,11 @@
 ---
 layout: page
-title: "Index"
+title: Index
 description: ""
+published: true
 ---
+
 {% include JB/setup %}
+##Aromamassage entspannt
+
+![](/therapieverfahren/aroma-massage/YVONNEZEICHEN.jpg)
