@@ -6,8 +6,9 @@ published: true
 ---
 
 {% include JB/setup %}
+##Kosten
 
-**Die Behandlung wird mit 50,-- € berechnet**. Die Behandlungsdauer richtet sich nach dem Bedarf des Patienten. Ich nehme mir für jede/jeden die Zeit, die sie/er benötigt. Ziel ist es, ein befriedigendes Behandlungskonzept zu erstellen. Eine stundenweise Abrechnung macht gerade bei Kindern keinen Sinn, denn die Untersuchung erfordert viel Fingerspitzengefühl und wird manchmal nicht sofort toleriert. Das alleine erfordert Geduld. Oft ergeben sich im Gespräch und während der Untersuchung auch weitere Punkte, die in Ruhe besprochen werden sollen.  
+****Die Behandlung wird mit 50,-- € berechnet****. Die Behandlungsdauer richtet sich nach dem Bedarf des Patienten. Ich nehme mir für jede/jeden die Zeit, die sie/er benötigt. Ziel ist es, ein befriedigendes Behandlungskonzept zu erstellen. Eine stundenweise Abrechnung macht gerade bei Kindern keinen Sinn, denn die Untersuchung erfordert viel Fingerspitzengefühl und wird manchmal nicht sofort toleriert. Das alleine erfordert Geduld. Oft ergeben sich im Gespräch und während der Untersuchung auch weitere Punkte, die in Ruhe besprochen werden sollen.  
 
 Die Behandlungskosten werden in der Praxis bar bezahlt; selbstverständlich bekommen Sie eine entsprechende Rechnung, die Sie auch steuerlich geltend machen können.
 
