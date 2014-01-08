@@ -12,6 +12,6 @@ Die Behandlungskosten werden in der Praxis bar bezahlt; selbstverständlich beko
 
 **Kostenerstattung**
 
-Leider übernehmen die gesetzliche Krankenkassen in Deutschland die Kosten der Heilpraktiker (noch) nicht. Ich empfehle jedoch, eine private Zusatzversicherung für alternative Heilmethoden abzuschliessen. Es ist sinnvoll, sich mehrere Angebote einzuholen und diese zu vergleichen. ->Vergleichsrechner
+Leider übernehmen die gesetzliche Krankenkassen in Deutschland die Kosten der Heilpraktiker (noch) nicht. Ich empfehle daher, eine private Zusatzversicherung für alternative Heilmethoden abzuschliessen. Es ist sinnvoll, sich mehrere Angebote einzuholen und diese zu vergleichen. ->Vergleichsrechner
 
 Private Krankenversicherungen und private Krankenzusatzversicherungen erstatten die Behandlungskosten der Heilpraktiker entsprechend des vereinbarten Tarifes erstattet. Eventuell wird nur ein Teil der Kosten (üblicherweise 80 %) übernommen.
