@@ -753,8 +753,7 @@ pre {
   }
 }
 /*
-	Not that old computer layout 
-*/
+	
 @media only screen and (min-width: 1280px) {
   .the-header .unit-inner {
     width: 60em;
@@ -798,9 +797,8 @@ pre {
     width: 60em;
   }
 }
-/*
-	Huge-screen layout 
-*/
+
+
 @media only screen and (min-width: 1410px) {
   .the-header .unit-inner {
     width: 88.125em;
@@ -850,6 +848,7 @@ pre {
     margin-right: 360px;
   }
 }
+*/
 
 /* CUSTOM STYLES */
 
