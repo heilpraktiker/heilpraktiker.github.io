@@ -10,4 +10,4 @@ published: true
 
 Je nach Bedarf wähle ich das passende ätherische Öl aus und helfe Ihnen, durch die Aroma-Massage zu Ihrer Balance zurückzufinden und Ausgeglichenheit zu erlangen: 
 
-Lemongrasöl wirkt z. B. bei Müdigkeit, Ántriebsschwäche oder Erschöpfung, ebenso Rosmarinöl, das auch bei Husten und Kopfschmerzen lindert und zudem wärmt. Lavendelöl wird ebenfalls bei Infekten der oberen Atemwege angewendet und wirkt beruhigend - ideal also für eine Aroma-Massage am Abend. Eine Massage Grapefruitöl ist erfrischend und belebend und schenkt so Kraft für einen anstrengenden Tag.
+Lemongrasöl wirkt z. B. bei Müdigkeit, Ántriebsschwäche oder Erschöpfung, ebenso Rosmarinöl, das auch bei Husten und Kopfschmerzen lindert und zudem wärmt. Lavendelöl wird ebenfalls bei Infekten der oberen Atemwege angewendet und wirkt beruhigend - ideal also für eine Aroma-Massage am Abend. Eine Massage mit dem Zusatz von Grapefruitöl ist erfrischend und belebend und schenkt so Kraft für einen anstrengenden Tag.
