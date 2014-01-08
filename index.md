@@ -1,13 +1,16 @@
 ---
 layout: page
-title: Wilkommen!
+title: "Wilkommen!"
+published: true
 ---
+
 {% include JB/setup %}
 
-## Wilkommen.
+## Willkommen in der Kindernaturheilpraxis in Berlin-Friedenau.
 
-Dies ist die Homepage von Yvonne Heemeyer. Sehen sie sich ruhig um und kaufen sie meine Produkte.
+Der Körper ist der Übersetzer der Seele ins Sichtbare, sagte der Dichter Christian Morgenstern. Bauchschmerzen aus Angst und Kopfschmerzen aus Überforderung sind die bekanntesten solcher Übersetzungen. Welche Probleme können andere Erkrankungen bei Kindern anzeigen – und wie werden sie behandelt?
 
-Ich leite die `Kindernaturheilpraxis` und bin der Boss.
+Wenn Kinderseelen Schmerzen haben
+Stress schlägt auf den Magen, Kummer geht an die Nieren, Angst schnürt die Kehle zu: Der Volksmund weiß seit Jahrhunderten, dass sich seelische Sorgen in körperlichen Symptomen niederschlagen und krank machen können. Das Kleinkind, das sich im Kindergarten nicht wohl fühlt und morgens über Bauchweh jammert, oder der Schüler, der vor Klassenarbeiten Durchfall bekommt, sind typische Beispiele für solche sogenannten psychosomatischen Reaktionen. Dies können leichte oder nur einmalige Vorgänge sein. Doch bleiben die seelischen Nöte, die dahinter stehen, dauerhaft unbeachtet, besteht die Gefahr schwerer und sogar chronischer Erkrankungen.
 
-    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
