@@ -6,7 +6,8 @@ published: true
 ---
 
 {% include JB/setup %}
-Die **Bachblütentherapie** geht auf den englischen Arzt und Forscher Edward Bach (1886–1936) zurück. Er entdeckte 38 Blüten von wild wachsenden Pflanzen und Bäumen, die er verschiedenen Gemütszuständen zuordnete und entwickelte ein natürliches, für jedermann einfach anwendbares System zur Förderung der seelischen Gesundheit und damit zur Vorbeugung von körperlichen Erkrankungen.
+##Bachblütentherapie
+Die ****Bachblütentherapie**** geht auf den englischen Arzt und Forscher Edward Bach (1886–1936) zurück. Er entdeckte 38 Blüten von wild wachsenden Pflanzen und Bäumen, die er verschiedenen Gemütszuständen zuordnete und entwickelte ein natürliches, für jedermann einfach anwendbares System zur Förderung der seelischen Gesundheit und damit zur Vorbeugung von körperlichen Erkrankungen.
 
 Die Bachblüten sind nebenwirkungsfrei und vertragen sich mit jeder anderen Form schulmedizinischer und naturheilkundlicher Therapie. Sie sind ein ideales Mittel, um Kinder zu unterstützen und ihr Potential in jeder Hinsicht positiv zu entwickeln, damit sie unbefangen und voll Selbstvertrauen die wechselnden Anforderungen ihrer Kinder- und Jugendjahre durchleben können.
 
