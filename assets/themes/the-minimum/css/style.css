@@ -786,3 +786,7 @@ p.license {
   font-size: 60%;
   margin-bottom: 0;
 }
+
+.unit-article a {
+  font-weight: bold;
+}
