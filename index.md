@@ -1,16 +1,22 @@
 ---
 layout: page
-title: "Wilkommen!"
+title: "Willkommen!"
 published: true
 ---
 
 {% include JB/setup %}
 
-## Willkommen in meiner Kindernaturheilpraxis .
+## Herzlich willkommen in meiner Kindernaturheilpraxis
+
+Naturheilkunde für Kinder - was bedeutet das? Zunächst muss verdeutlicht werden, dass Kinder keine kleinen Erwachsenen und Neugeborene und Säuglinge keine kleinen Kinder sind. Kinder haben eigene, alterspezifische Merkmale mit speziellen Therapiemöglichkeiten. Außerdem bedarf die Eigenart jedes kleinen Patienten besondere Aufmerksamkeit und individuelle Behandlungsmethoden. Um dies zu gewährleisten, nehme ich mir viel Zeit für Sie und Ihr Kind (Die Abrechnung erfolgt pro Behandlungstermin, unabhängig von der zeitlichen Dauer.). Aus Erfahrung weiß ich, dass im Alltag in einer Kinderarzt-Praxis die Behandlungszeit für den einzelnen Patienten sehr begrenzt ist - obwohl die Ärzte es gerne anders hätten - und so einige Fragen unausgesprochen bleiben. 
+
+In meiner Praxis kümmere ich mich ohne Zeitdruck um Sie und Ihr Kind, so dass alle für Sie wichtigen Themen angesprochen werden können. Die Untersuchung wird von jedem kleine Patienten anders toleriert - hier passe ich mich der Stimmung Ihres Kindes an. Mit einer natürlichen Behandlung werde ich dann die Selbstheilungskräfte sanft und ohne Nebenwirkungen anregen. Dabei versuche ich vor allem, auf die Krankheitsursachen einzugehen und nicht nur auf die Symptome.
+
+Eine natürliche Behandlung in meiner Praxis ist stets auch als Ergänzung und Begleitung zur schulmedizinischen Behandlung in Ihrer Kinderarzt-Praxis möglich.
 
 Der Körper ist der Übersetzer der Seele ins Sichtbare, sagte der Dichter Christian Morgenstern. 
 
-Bauchschmerzen oder Durchfall aus Angst, Kopfschmerzen aus Überforderung, häufig wiederkehrende Infekte  ,Schlafstörungen  ,   sind die bekanntesten solcher Übersetzungen. Welche Probleme können andere Erkrankungen bei Kindern anzeigen – und wie können wir den Kindern helfen?
+Bauchschmerzen oder Durchfall aus Angst, Kopfschmerzen aus Überforderung, häufig wiederkehrende Infekte  ,Schlafstörungen  ,   Hauterkrankungen sind die einige                                                                       solcher Übersetzungen. Welche Probleme können andere Erkrankungen bei Kindern anzeigen – und wie können wir den Kindern helfen?
 
 
 
