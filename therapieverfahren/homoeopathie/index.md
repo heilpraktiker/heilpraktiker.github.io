@@ -18,6 +18,6 @@ Ein schönes Beispiel hierfür ist das Mittel „Allium cepa (Küchenzwiebel). J
 
 Um auch giftige Substanzen ohne Gefahr verwenden zu können, entwickelte Hahnemann eine spezielle Methode der Verdünnung, das sogenannte Potenzieren. Je höher die Potenz, desto sanfter, sicherer und schneller wirkt das Mittel.
 
-In der Kinderheilkunde wird die Homöopathie erfolgreich bei der Behandlung von akuten Erkrankungen wie Atemwegsinfekte, HNO-Erkrankungen, Beschwerden des Verdauungssystems, Verletzungen, aber auch bei chronischen Erkrankungen wie wiederkehrende Infekte, Allergien, Hautkrankheiten, Schulschwierigkeiten eingesetzt. 
+In der Kinderheilkunde wird die Homöopathie erfolgreich bei der Behandlung von akuten Erkrankungen wie Atemwegsinfekte, HNO-Erkrankungen, Beschwerden des Verdauungssystems, Verletzungen, aber auch bei chronischen Erkrankungen wie wiederkehrende Infekte, Allergien, Hautkrankheiten, Schulschwierigkeiten eingesetzt.
 
-
+[Nächste Seite](/therapieverfahren/bachblueten-therapie/)
