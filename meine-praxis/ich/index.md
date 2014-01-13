@@ -19,4 +19,4 @@ Durch die Erziehung von drei – inzwischen fast erwachsenen – eigenen Kindern
 
 Meine medizinischen Kenntnisse habe ich in der Ausbildung zur Heilpraktikerin und weiteren Ausbildungen in verschiedenen Naturheilverfahren sowie meiner Tätigkeit in einer Kinderarzt-Praxis erworben. Durch regelmäßige Fort- und Weiterbildungen erweitere ich mein Wissen permanent, damit ich meine Patienten umfassend betreuen kann.
 
-[Nächste Seite](/meine-praxis/philosophie/)
+[Nächste Seite](/meine-praxis/bilder/)
