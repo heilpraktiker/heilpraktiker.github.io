@@ -13,4 +13,6 @@ Die Bachblüten sind nebenwirkungsfrei und vertragen sich mit jeder anderen Form
 
 In der Regel sprechen Kinder schnell auf die Blüten an, sie sind noch offener für die subtilen Schwingungen. Bewährt hat sich die Anwendung bei Kindern jeden Alters, z. B. bei Ängsten, Schlafstörungen, Konzentrations- und Lernschwierigkeiten, bei Kindergarten- oder Schuleintritt, aber auch bei Stillproblemen und Drei-Monatskoliken.
 
-Wenn ein Kind gesundheitliche Probleme hat, ist die ganze Familie betroffen. Ängste, Unsicherheiten, Sorge und Überforderung beeinflussen den Genesungsprozess negativ. Daher ist die Einnahme von Bachblüten gerade auch für die Eltern eine hervorragende Unterstützung. Sie finden zurück zu ihrem seelischen Gleichgewicht und können dadurch ihrem Kind helfen, schneller gesund zu werden. 
+Wenn ein Kind gesundheitliche Probleme hat, ist die ganze Familie betroffen. Ängste, Unsicherheiten, Sorge und Überforderung beeinflussen den Genesungsprozess negativ. Daher ist die Einnahme von Bachblüten gerade auch für die Eltern eine hervorragende Unterstützung. Sie finden zurück zu ihrem seelischen Gleichgewicht und können dadurch ihrem Kind helfen, schneller gesund zu werden.
+
+[Nächste Seite](/therapieverfahren/fussreflexzonen-therapie/)
