@@ -19,4 +19,4 @@ Leider übernehmen die gesetzliche Krankenkassen in Deutschland die Kosten der H
 
 Private Krankenversicherungen und private Krankenzusatzversicherungen erstatten die Behandlungskosten der Heilpraktiker entsprechend des vereinbarten Tarifes erstattet. Eventuell wird nur ein Teil der Kosten (üblicherweise 80 %) übernommen.
 
-[Nächste Seite](/preise/massage/)
+[Nächste Seite](/meine-praxis/philosophie/)
