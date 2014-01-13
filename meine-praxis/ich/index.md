@@ -18,3 +18,5 @@ Nach der Geburt unseres ersten Kindes habe ich meine Tätigkeit als Geschäftsf�
 Durch die Erziehung von drei – inzwischen fast erwachsenen – eigenen Kindern und die Betreuung von über 20 Tageskindern  und  habe ich gelernt, mit vielen verschiedenen Charakteren und ihren Besonderheiten umzugehen. Dazu gehörten natürlich auch Krankheiten, Verletzungen und  seelische Befindlichkeitsstörungen und nicht zuletzt die Herausforderungen der Pubertät. 
 
 Meine medizinischen Kenntnisse habe ich in der Ausbildung zur Heilpraktikerin und weiteren Ausbildungen in verschiedenen Naturheilverfahren sowie meiner Tätigkeit in einer Kinderarzt-Praxis erworben. Durch regelmäßige Fort- und Weiterbildungen erweitere ich mein Wissen permanent, damit ich meine Patienten umfassend betreuen kann.
+
+[Nächste Seite](/meine-praxis/philosophie/)
