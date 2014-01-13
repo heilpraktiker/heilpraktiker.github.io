@@ -6,4 +6,7 @@ published: true
 ---
 
 {% include JB/setup %}
-##Anfahrt
+
+## Anfahrt
+
+[Nächste Seite](/meine-praxis/kontakt/)
