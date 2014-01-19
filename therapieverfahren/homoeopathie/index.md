@@ -9,7 +9,8 @@ published: true
 ##Homöopathie
 Die Homöopathie ist ein eigenständiges Heilsystem, das auf ihren Begründer Samuel Hahnemann zurückzuführen ist. Im 18. Jahrhundert suchte er nach einer Heilmethode, die sanft, schnell und ohne Nebenwirkungen Beschwerden lindern kann. In dem Begriff „Homöopathie“, der sich aus den griechischen Worten für „das Ähnliche“ und „die Krankheit/das Leiden“ zusammensetzt, steckt der Grundgedanke Hahnemanns:
 „Wähle, um sanft, schnell, gewiss und dauerhaft zu heilen, in jedem Krankheitsfalle eine Arznei, welche ein ähnliches Leiden für sich erregen kann, als sie heilen soll.“
-																Hahnemann 2005, S. 35
+																
+                                                                Hahnemann 2005, S. 35
 
 Krankheitssymptome sollen stimuliert werden, um somit die Selbstheilungskräfte des Körpers zu unterstützen. Für die Wahl der richtigen homöopathischen Arznei werden alle Symptome des Patienten mit einbezogen. Es wird nicht nach einer Diagnose, sondern nach dem Mittel gesucht, das bei einem Gesunden möglichst ähnliche Symptome erzeugen würde. So wird jeder Mensch individuell nach seiner eigenen Symptomatik behandelt.  
 
