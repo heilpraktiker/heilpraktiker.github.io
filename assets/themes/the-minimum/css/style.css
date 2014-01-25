@@ -790,3 +790,15 @@ p.license {
 .unit-article a {
   font-weight: bold;
 }
+
+address {
+  margin-top: 20px;
+}
+
+img.light {
+  border: 2px solid #aaa;
+}
+
+img.dark {
+  border: 2px solid black;
+}
