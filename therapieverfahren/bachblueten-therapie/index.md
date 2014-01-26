@@ -11,7 +11,7 @@ Die Bachblütentherapie geht auf den englischen Arzt und Forscher Edward Bach (1
 
 Die Bachblüten sind nebenwirkungsfrei und vertragen sich mit jeder anderen Form schulmedizinischer und naturheilkundlicher Therapie. Sie sind ein ideales Mittel, um Kinder zu unterstützen und ihr Potential in jeder Hinsicht positiv zu entwickeln, damit sie unbefangen und voll Selbstvertrauen die wechselnden Anforderungen ihrer Kinder- und Jugendjahre durchleben können.
 
-In der Regel sprechen Kinder schnell auf die Blüten an, sie sind noch offener für die subtilen Schwingun-gen. Bewährt hat sich die Anwendung bei Kindern jeden Alters, z. B. bei Ängsten, Schlafstörungen, Konzen-trations- und Lernschwierigkeiten, bei Kindergarten- oder Schuleintritt, aber auch bei Stillproblemen und Drei-Monatskoliken.
+In der Regel sprechen Kinder schnell auf die Blüten an, sie sind noch offener für die subtilen Schwingun-gen. Bewährt hat sich die Anwendung bei Kindern jeden Alters, z. B. bei Ängsten, Schlafstörungen, Kon-zentrations- und Lernschwierigkeiten, bei Kindergarten- oder Schuleintritt, aber auch bei Stillproblemen und Drei-Monatskoliken.
 
 Wenn ein Kind gesundheitliche Probleme hat, ist die ganze Familie betroffen. Ängste, Unsicherheiten, Sorge und Überforderung beeinflussen den Genesungsprozess negativ. Daher ist die Einnahme von Bachblüten gerade auch für die Eltern eine hervorragende Unterstützung. Sie finden zurück zu ihrem seelischen Gleichgewicht und können dadurch ihrem Kind helfen, schneller gesund zu werden.
 
