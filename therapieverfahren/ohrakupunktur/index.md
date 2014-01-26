@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Index
+title: Therapieverfahren / Ohrakupunktur
 description: ""
 published: true
 ---

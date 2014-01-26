@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Index
+title: Preise / Massage
 description: ""
 published: true
 ---

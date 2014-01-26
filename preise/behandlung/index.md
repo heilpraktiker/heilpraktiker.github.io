@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Index
+title: Preise / Behandlung
 description: ""
 published: true
 ---

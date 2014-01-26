@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Willkommen!"
+title: Index
+class: home
 published: true
 ---
 

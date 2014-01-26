@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Index
+title: Therapieverfahren / Aroma-Massage
 description: ""
 published: true
 ---

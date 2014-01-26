@@ -175,6 +175,12 @@ No styleguide reference.
 --------------------------------------------------------------------------------- */
 /* GLOBAL
 --------------------------------------------------------------------------------- */
+html, body {
+  margin:0;
+  padding:0;
+  height:100%;
+}
+
 html {
   background-color: #ffffff;
   color: #2d2d2d;
@@ -400,25 +406,6 @@ pre {
 }
 .unit-article .list-tag {
   text-transform: capitalize;
-}
-.unit-article .unit-foot {
-  background: url('/assets/themes/the-minimum/skin/100-90-5-monochrome.png') repeat 0 0 #4d4d4d;
-  color: #fafafa;
-  padding-top: 1.625em;
-  padding-bottom: 1.625em;
-  position: relative;
-}
-.unit-article .unit-foot a:link {
-  color: #fafafa;
-}
-.unit-article .unit-foot a:visited {
-  color: #fafafa;
-}
-.unit-article .unit-foot a:hover {
-  color: #ffffff;
-}
-.unit-article .unit-foot nav ul {
-  list-style: none;
 }
 .unit-article .unit-foot nav ul li {
   display: inline;
@@ -801,4 +788,46 @@ img.light {
 
 img.dark {
   border: 2px solid black;
+}
+
+img.main.left {
+  left: 30px;
+}
+
+img.main.right {
+  right: 30px;
+}
+
+img.main {
+  position: absolute;
+  display: none;
+}
+
+body.home img.main, body.contact img.main {
+  display: inline!important;
+}
+
+div#page {
+  position: relative;
+  min-height: 100%;
+}
+
+div.body {
+  padding-bottom: 114px;
+}
+
+footer {
+  position: absolute!important;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 114px;
+}
+
+div.wrapper {
+  background-color: #555!important;
+}
+
+.unit-foot.bread {
+  font-style: italic;
 }

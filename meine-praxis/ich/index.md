@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Index
+title: Meine Praxis / Über Mich
 description: ""
 published: true
 ---

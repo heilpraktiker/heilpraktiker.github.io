@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Index
+title: Therapieverfahren / Fußreflexzonen-Therapie
 description: ""
 published: true
 ---
