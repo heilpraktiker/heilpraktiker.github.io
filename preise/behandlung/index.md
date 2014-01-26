@@ -7,7 +7,7 @@ published: true
 
 {% include JB/setup %}
 
-## Kosten **Behandlung**
+## Behandlungskosten
 
 **Die Behandlung wird mit 50,-- € berechnet**. Die Behandlungsdauer richtet sich nach dem Bedarf des Patienten. Ich nehme mir für jede/jeden die Zeit, die sie/er benötigt. Ziel ist es, ein befriedigendes Behandlungskonzept zu erstellen. Eine stundenweise Abrechnung macht gerade bei Kindern keinen Sinn, denn die Untersuchung erfordert viel Fingerspitzengefühl und wird manchmal nicht sofort toleriert. Das alleine erfordert Geduld. Oft ergeben sich im Gespräch und während der Untersuchung auch weitere Punkte, die in Ruhe besprochen werden sollen.  
 
@@ -19,4 +19,4 @@ Leider übernehmen die gesetzliche Krankenkassen in Deutschland die Kosten der H
 
 Private Krankenversicherungen und private Krankenzusatzversicherungen erstatten die Behandlungskosten der Heilpraktiker entsprechend des vereinbarten Tarifes erstattet. Eventuell wird nur ein Teil der Kosten (üblicherweise 80 %) übernommen.
 
-[Nächste Seite](/meine-praxis/philosophie/)
+[Nächste Seite](/preise/massage/)
