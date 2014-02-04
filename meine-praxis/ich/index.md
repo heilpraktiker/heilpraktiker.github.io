@@ -9,7 +9,7 @@ published: true
 
 ## Über mich.
 
-![](//assets/images/ich.jpg)
+![](/assets/images/ich.jpg)
 
 Ich bin 1966 in Brake/Unterweser im Norden von  Niedersachsen geboren. In Hannover bin ich zur Schule gegangen und habe dort nach dem Abitur eine Ausbildung zur Europa-Sekretärin absolviert. 
 
