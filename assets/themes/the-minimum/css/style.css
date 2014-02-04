@@ -831,3 +831,12 @@ div.wrapper {
 .unit-foot.bread {
   font-style: italic;
 }
+
+body.me .entry-content img {
+  float: right;
+  margin-left: 20px;
+  margin-right: 10px;
+  margin-top: 10px;
+  border: 1px solid black;
+  width: 240px;
+}
