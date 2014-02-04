@@ -9,6 +9,8 @@ published: true
 
 ## Über mich.
 
+![](//assets/images/ich.jpg)
+
 Ich bin 1966 in Brake/Unterweser im Norden von  Niedersachsen geboren. In Hannover bin ich zur Schule gegangen und habe dort nach dem Abitur eine Ausbildung zur Europa-Sekretärin absolviert. 
 
 Seit 1993 bin ich verheiratet. 1994 wurde unser erster Sohn geboren. Fast auf den Tag genau zwei Jahre später kam unsere Tochter auf die Welt; unser jüngster Sohn folgte 1998. 
