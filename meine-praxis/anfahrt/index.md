@@ -13,6 +13,7 @@ published: true
 Heilpraktikerin Yvonne Heemeyer**
 
 Termine nach Vereinbarung - auch Samstags möglich
+
 Hausbesuch bei Bedarf
 
 Tel.: 030 / 74 77 11 62 oder mobil: 0177 / 168 33 73
