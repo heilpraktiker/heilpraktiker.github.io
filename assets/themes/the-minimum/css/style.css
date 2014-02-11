@@ -804,7 +804,7 @@ img.main {
 }
 
 body.home img.main, body.contact img.main {
-  display: inline!important;
+  display: inline;
 }
 
 div#page {
