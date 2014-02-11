@@ -6,14 +6,15 @@ published: true
 ---
 
 {% include JB/setup %}
+- item
+- item
+- item
+
 
 ## Anfahrt / Terminvereinbarung
 
 
-_Termine nach Vereinbarung_
-
-* auch Samstags möglich
-* Hausbesuch bei Bedarf
+_Termine nach Vereinbarung - gerne auch Samstags. Bei Bedarf sind auch Hausbesuche möglich. Bitte rufen Sie mich an oder schicken Sie mir eine Email._
 
 
 Tel.: 030 / 74 77 11 62 oder mobil: 0177 / 168 33 73
