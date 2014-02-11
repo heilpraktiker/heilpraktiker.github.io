@@ -9,10 +9,8 @@ published: true
 
 ## Anfahrt / Terminvereinbarung
 
-**Kindernaturheilpraxis Berlin
-Heilpraktikerin Yvonne Heemeyer**
 
-Termine nach Vereinbarung
+_Termine nach Vereinbarung_
 
 * auch Samstags möglich
 * Hausbesuch bei Bedarf
