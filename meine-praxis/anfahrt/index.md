@@ -6,10 +6,6 @@ published: true
 ---
 
 {% include JB/setup %}
-- item
-- item
-- item
-
 
 ## Anfahrt / Terminvereinbarung
 
