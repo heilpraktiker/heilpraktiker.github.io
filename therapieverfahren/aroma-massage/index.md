@@ -16,4 +16,4 @@ Lemongrasöl wirkt z. B. bei Müdigkeit, Ántriebsschwäche oder Erschöpfung, e
 ##Schröpfen
 Durch das Setzen von Schröpfgläsern auf die Haut wird ein Unterdruck erzeugt, der die Durchblutung verbessert und den Stoffwechsel aktiviert. Die Behandlung hat einen schmerzlindernden Effekt und aktiviert die Selbstregulation. Das Schröpfen wird angewendet bei akuten und chronischen Erkrankungen der Atemwege, des Verdauungstraktes und des Bewegungsapparates, aber auch bei Schwächezuständen wie chronischer Müdigkeit.
 
-Eine ##Schröpfmassage## dient der Lockerung der Muskulatur und auch der Stimulation des Bindegewebes und des Lymphflusses.
+Eine ****Schröpfmassage dient der Lockerung der Muskulatur und auch der Stimulation des Bindegewebes und des Lymphflusses.
