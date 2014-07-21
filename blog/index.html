@@ -1,0 +1,22 @@
+---
+layout: page
+---
+
+<div class="home">
+
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li class="post">
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+          <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        </a>
+        <article style="margin-top: 20px" class="post-content">
+          {{ post.content }}
+        </article>
+      </li>
+
+      <hr />
+    {% endfor %}
+  </ul>
+
+</div>

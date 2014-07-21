@@ -749,7 +749,7 @@ header {
 }
 
 .the-header .nav-global li {
-  margin-right: 3em;
+  margin-right: 2.5em;
 }
 
 
@@ -839,4 +839,8 @@ body.me .entry-content img {
   margin-top: 10px;
   border: 1px solid black;
   width: 240px;
+}
+
+li.post {
+  list-style: none;
 }

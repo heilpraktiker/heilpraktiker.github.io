@@ -1,37 +1,14 @@
 <article class="unit-article layout-post">
 	<div class="unit-inner unit-article-inner">
 		<div class="content">
-			<header>
-				<div class="unit-head">
-					<div class="unit-inner unit-head-inner">
-						<h1 class="h2 entry-title">{{ page.title }}</h1>
-					</div><!-- unit-inner -->
-				</div><!-- unit-head -->
-			</header>
-
 			<div class="bd">
 				<div class="entry-content">
-					{{ content }}
-					<div class="meta">
-						<p class="date-publish">
-							Published: 
-							<date class="date-pub" title="{{ page.date | date_to_xmlschema }}" datetime="{{ page.date | date_to_xmlschema }}" pubdate>
-							<span class="month"><abbr>{{ page.date | date: '%B' }}</abbr></span>
-							<span class="day">{{ page.date | date: '%d' }}</span>
-							<span class="year">{{ page.date | date: '%Y' }}</span>
-							</date>
-						</p>
-						<ul class="list-category list-linear">
-							<li class="list-head">category: </li>
-							{% assign categories_list = page.categories %}
-							{% include JB/categories_list %}
-						</ul>
-						<ul class="list-tag list-linear">
-							<li class="list-head">tags: </li>
-							{% assign tags_list = page.tags %}
-							{% include JB/tags_list %}
-						</ul>
-					</div><!-- meta -->
+          <a class="post-link" href="{{ page.url | prepend: site.baseurl }}">
+            <span class="post-date">{{ page.date | date: "%b %-d, %Y" }}</span>
+          </a>
+          <div style="margin-top: 20px">
+            {{ content }}
+          </div>
 				</div><!-- entry-content -->
 				<div class="misc-content">
 					<div class="social">
@@ -60,9 +37,6 @@
 							{% endif %}
 						</ul>
 					</nav>
-					<p class="gotop">
-						<a href="#page">Back to Top</a>
-					</p>
 				</div>
 			</footer>
 
