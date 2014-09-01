@@ -1,18 +1,16 @@
 ---
 layout: post
-tagline: "Ein Blog entsteht."
+tagline: Ein Blog entsteht.
+published: true
 ---
+
 {% include JB/setup %}
 
-## Hallo Welt.
+##TAG DER OFFENEN TÜR AM 08.11.2014
 
-Hier entsteht der Blog der Kindernaturheilpraxis Berlin.
-In nächster Zeit werden hier Artikel rund um die Themen **Gesundheit, Alternative Medizin und Erziehung** zu finden sein.
+Die 4. Gesundheitsmeile im Malerviertel findet am Samstag, 8. November 2014 von 10 - 17 Uhr statt.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam porta felis sit amet lectus posuere sodales. Aliquam scelerisque sodales mi, nec mollis est. Donec eu diam aliquam, pharetra mauris vel, varius tellus. Curabitur vel dui in sem ornare aliquam. Etiam blandit lorem eget sollicitudin tincidunt.
+Sie sind herzlich eingeladen,  in die Vielzahl von Praxen und Einrichtungen zu kommen, Schnupperangebote zu Physiotherapie, psychotherapeutische und Körperorientierte Verfahren, Kunsttherapie, Vorträge, Wellness und Gesundheit wahrzunehmen und sich beraten zu lassen. Praxen und Einrichtungen im und um das Malerviertel können noch bis zum 15. September ihre Unterlagen schicken. Eine Programmbroschüre wird ab 7. Oktober bereitgestellt.
 
-Pellentesque magna erat, blandit eu dapibus a, bibendum et nulla. Curabitur ac egestas leo, a facilisis est. Phasellus commodo diam sit amet malesuada laoreet. Nullam accumsan sodales sapien, id sodales lorem ultrices eu.
-
-Nulla id leo tortor. Donec a metus accumsan, aliquet turpis ac, venenatis diam. Cras nec egestas ipsum, vel luctus lectus. Cras id placerat nulla. Pellentesque consequat lectus sed elit dignissim luctus. Quisque malesuada dictum dui vel convallis. Pellentesque sed vulputate libero.
-
-
+Die Kinder-Naturheilpraxis Berlin ist am 08.11. von 12.00 - 17.00 Uhr geöffnet. Ich beantworte Ihre Fragen zu Erkältungskrankheiten und Infektanfälligkeit und informiere Sie über meine Behandlungsmethoden. Passend zum Thema stelle ich Ihnen das "Wundermittel" Holundersaft vor, von dem es auch eine Kostprobe gibt. Für die Kinder gibt es außerdem ein kleines Geschenk. 
+Ich freue mich auf Ihren Besuch!
