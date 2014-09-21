@@ -11,7 +11,7 @@ Liebe Eltern,
 
 der Herbst steht vor der Tür und damit auch die Erkältungszeit. Möglicherweise ist Ihr Kind auch gerade in die KiTa gekommen und das Risiko für Infekte hat sich somit noch erhöht. Vielleicht haben Sie den Eindruck, dass Ihr Kind permanent krank ist – kaum hat es sich von dem einen Infekt erholt, läuft schon wieder die Nase, ein Ohr tut weh oder das Kind hat Fieber.
 
-Es gibt eine Vielzahl von Erregern, mit denen die Kinder täglich in Berührung kommen, und da das kindliche  Immunsystem noch nicht ausgereift ist,  muss es erst lernen, mit ihnen fertig zu werden. So ist es völlig normal, dass es (bis zum Grundschulalter)  im Kindergartenalter vermehrt zu Infektionen kommt. Es gibt unzählige Krankheitserreger, gegen die der Körper spezifische Antikörper herstellen muss und das braucht seine Zeit. Bis zu 12 banale fieberhafte Infekte ohne Komplikationen werden bei Vorschulkindern als normal angesehen. 
+Es gibt eine Vielzahl von Erregern, mit denen die Kinder täglich in Berührung kommen, und da das kindliche  Immunsystem noch nicht ausgereift ist,  muss es erst lernen, mit ihnen fertig zu werden. So ist es völlig normal, dass es bis zum Grundschulalter vermehrt zu Infektionen kommt. Es gibt unzählige Krankheitserreger, gegen die der Körper spezifische Antikörper herstellen muss und das braucht seine Zeit. Bis zu 12 banale fieberhafte Infekte ohne Komplikationen werden bei Vorschulkindern als normal angesehen. 
 
 Als Eltern sorgen Sie für eine gesunde Ernährung, ausreichend Schlaf, viel Bewegung und schaffen für Ihr Kind eine liebevolle Umgebung und tun damit eine ganze Menge, um sein Immunsystem zu stärken. Wenn Sie Ihrem Kind noch mehr Unterstützung geben wollen, um seine Anfälligkeit für Infekte zu reduzieren, biete ich in meiner Praxis [Therapieverfahren](http://www.kindernaturheilpraxisberlin.de/therapieverfahren/homoeopathie/), die die Selbstheilungskräfte anregen. 
 
@@ -20,7 +20,7 @@ Die Fußreflexzonen-Therapie setze ich ein, um den Lymphabfluss in Gang zu bring
 Weitere Methoden, um Infekt anfällige Kinder zu unterstützen, die ich gerne anwende, sind das Schröpfen, die Moxibustion und die Akupressur. Bei letzterem machen die Kinder gerne selber mit und stimulieren die entsprechenden Punkte.
 Mit Ihnen zusammen wähle ich die passende Behandlung für Ihr Kind aus.  
 
-Kinder sind die Zukunft unserer Erde, und wir möchten ihnen helfen, sich unbeschwert zu entfalten
+Kinder sind die Zukunft unserer Erde - helfen wir ihnen, sich unbeschwert zu entfalten!
 
 ##TAG DER OFFENEN TÜR AM 08.11.2014
 
