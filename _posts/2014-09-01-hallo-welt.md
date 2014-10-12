@@ -7,22 +7,25 @@ published: true
 ##  **Fieber**
 
 **Was ist Fieber**:
+
 Zunächst einmal: Fieber ist keine Krankheit, sondern ein Symptom. Es ist eine Erhöhung der Körpertemperatur über den natürlich eingestellten Soll-Wert. Dieser Wert schwankt auch bei gesunden Menschen. Die Normaltemperatur liegt bei etwa 37° C. Von Fieber spricht man erst ab einer Temperatur von 37,8° C oral (im Mund) gemessen, bzw. 38,2° C rektal (im After) gemessen. Eine Messung unter den Achseln ergibt sehr ungenaue Werte.
 
-•	Subfebrile (leicht erhöhte)Temperatur:, 37,5-38 °C
-•	Erhöhte Temperatur: über 38 °C
-•	Leichtes Fieber: 38-38,5 °C
-•	Mäßiges Fieber: 38,6-39 °C
-•	Hohes Fieber: 39,1-40 °C
-•	Sehr hohes Fieber: über 40 °C
+- Subfebrile (leicht erhöhte)Temperatur: 37,5-38 °C
+- Erhöhte Temperatur: über 38 °C
+- Leichtes Fieber: 38-38,5 °C
+- Mäßiges Fieber: 38,6-39 °C
+- Hohes Fieber: 39,1-40 °C
+- Sehr hohes Fieber: über 40 °C
 
 Fieber kann durch unterschiedliche Krankheitsbilder ausgelöst werden,  in den meisten Fällen  durch Erreger, aber auch während des Zahnens und nach Impfungen bekommen viele Kinder Fieber. 
 Ein Temperaturanstieg während einer Infektion ist ein gutes Zeichen und bedeutet, dass der Organismus auf die eingedrungenen Erreger reagiert und das Abwehrsystem beginnt, die Infektion zu bekämpfen. 
 
 **Welche Aufgabe hat das Fieber**:
+
 Im Rahmen einer Infektion ist das Fieber eine wichtige Maßnahme des Körpers, um die eingedrungenen Erreger zu vernichten. Ab einer Körpertemperatur von 39°C wird die Vermehrung von Viren und Bakterien deutlich gebremst. Durch das Fieber entsteht ein vermehrtes Schlafbedürfnis, weil der Körper seine Energiereserven für die Bekämpfung der Infektion benötigt. Das Fieber ist also eine wünschenswerte Reaktion des Immunsystems. 
 
 **Was tun bei Fieber**:
+
 Sehr wichtig ist eine ausreichende Flüssigkeitszufuhr, denn ein fiebernder Patient muss mehr trinken als ein gesunder Mensch. Appetitmangel bei Fieber ist völlig normal und sollte Sie nicht beunruhigen. Als therapeutische Maßnahme sollten Sie zunächst versuchen, dass Fieber mit Wadenwickel zu senken, was in vielen Fällen auch ausreicht.
 Wichtig ist es auch, dem Körper die Ruhe zu gönnen, die er benötigt. Das ist bei Kindern manchmal nicht ganz einfach. Die zu frühe Gabe von fiebersenkenden Mitteln kann sich an dieser Stelle insofern negativ auswirken, dass die Kinder fitter wirken und sich fühlen, als sie wirklich sind und sich nicht die notwendige Ruhe gönnen bzw. überfordern.
 Wenn das Kind sehr leidet, Kopf- und Gliederschmerzen hat oder nicht trinken mag, kann die Gabe von fiebersenkenden Mitteln wie Ibuprofen oder Paracetamol sinnvoll sein. Grundsätzlich sollten diese Mittel aber erst ab einer Körpertemperatur von 39,5° C gegeben werden. **Acetylsalicylsäure (z. B. Aspirin) ist bei Kinder nicht erlaubt!**
@@ -40,6 +43,7 @@ Suchen Sie bitte den Kinderarzt auf,
 - wenn das Fieber nach einigen Tagen wiederkehrt.
 
 **Fieberkrampf**:
+
 Ein Fieberkrampf ist ein Krampfanfall des Gehirns, der sich durch Bewusstseinsverlust und Muskelzuckungen äußert. 3 – 4 % aller Kinder im Alter von 6 Monaten bis 5 Jahren erleiden mindestens einen Fieberkrampf. Die Neigung hierzu ist oft vererbt.
 Das Kind im Krampfanfall zu sehen, ist für Eltern eine äußerst beängstigende Situation. Diese Anfälle sehen jedoch meistens schlimmer aus als sie sind und dauern in der Regel nur wenige Minuten. Bei den meisten Kindern sind sie ein einmaliges Ereignis.
 Versuchen Sie so ruhig wie möglich zu bleiben. Legen Sie Ihr Kind am besten auf den Boden und sorgen Sie dafür, dass es sich nicht verletzten kann. Halten Sie es nicht fest. Bleiben Sie bei Ihrem Kind und versuchen Sie zu ermitteln, wie lange der Krampf andauert.
