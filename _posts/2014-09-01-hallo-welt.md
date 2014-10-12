@@ -35,8 +35,6 @@ Wenn das Kind sehr leidet, Kopf- und Gliederschmerzen hat oder nicht trinken mag
 **Wann zum Arzt**:
 
 Suchen Sie bitte den Kinderarzt auf,
-- 
-
 
 - wenn Ihr Kind jünger als 12 Monate ist und Temperaturen über 38°C hat oder 
 - jünger als 24 Monate ist und Temperaturen über 38,5°C hat.
