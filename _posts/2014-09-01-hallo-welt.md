@@ -44,7 +44,6 @@ Suchen Sie bitte den Kinderarzt auf,
 - wenn das Fieber trotz vom Arzt verschriebenen Antibiotikums nicht sinkt.
 - wenn das Fieber nach einigen Tagen wiederkehrt.
 
-
 **Fieberkrampf**:
 
 Ein Fieberkrampf ist ein Krampfanfall des Gehirns, der sich durch Bewusstseinsverlust und Muskelzuckungen äußert. 3 – 4 % aller Kinder im Alter von 6 Monaten bis 5 Jahren erleiden mindestens einen Fieberkrampf. Die Neigung hierzu ist oft vererbt.
