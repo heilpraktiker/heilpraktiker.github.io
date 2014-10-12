@@ -36,12 +36,12 @@ Wenn das Kind sehr leidet, Kopf- und Gliederschmerzen hat oder nicht trinken mag
 
 Suchen Sie bitte den Kinderarzt auf,
 - wenn Ihr Kind jünger als 12 Monate ist und Temperaturen über 38°C hat oder 
-- jünger als 24 Monate ist und Temperaturen über 38,5°C hat;
-- wenn ihr Kind unter 4 Jahren eine Temperatur von über 39° C hat;
-- wenn das Fieber Ihr Kind sehr schwächt;
-- wenn das Kind nicht trinkt;
-- wenn hohes Fieber nicht sinkt oder Halluzinationen trotz Fiebersenkung bestehen bleiben
-- wenn das Fieber trotz vom Arzt verschriebenen Antibiotikums nicht sinkt;
+- jünger als 24 Monate ist und Temperaturen über 38,5°C hat.
+- wenn ihr Kind unter 4 Jahren eine Temperatur von über 39° C hat.
+- wenn das Fieber Ihr Kind sehr schwächt.
+- wenn das Kind nicht trinkt.
+- wenn hohes Fieber nicht sinkt oder Halluzinationen trotz Fiebersenkung bestehen bleiben.
+- wenn das Fieber trotz vom Arzt verschriebenen Antibiotikums nicht sinkt.
 - wenn das Fieber nach einigen Tagen wiederkehrt.
 
 
