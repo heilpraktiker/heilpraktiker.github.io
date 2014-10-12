@@ -15,15 +15,7 @@ Zunächst einmal: Fieber ist keine Krankheit, sondern ein Symptom. Es ist eine E
 - Leichtes Fieber: 38-38,5 °C
 - Mäßiges Fieber: 38,6-39 °C
 - Hohes Fieber: 39,1-40 °C
-- Sehr hohes Fieber: über 40 °C
-
-
-
-
-
-
-
-Fieber kann durch unterschiedliche Krankheitsbilder ausgelöst werden,  in den meisten Fällen  durch Erreger, aber auch während des Zahnens und nach Impfungen bekommen viele Kinder Fieber. 
+- Sehr hohes Fieber: über 40 °CFieber kann durch unterschiedliche Krankheitsbilder ausgelöst werden,  in den meisten Fällen  durch Erreger, aber auch während des Zahnens und nach Impfungen bekommen viele Kinder Fieber. 
 Ein Temperaturanstieg während einer Infektion ist ein gutes Zeichen und bedeutet, dass der Organismus auf die eingedrungenen Erreger reagiert und das Abwehrsystem beginnt, die Infektion zu bekämpfen. 
 
 **Welche Aufgabe hat das Fieber**:
