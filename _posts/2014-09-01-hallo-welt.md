@@ -33,7 +33,9 @@ Im Rahmen einer Infektion ist das Fieber eine wichtige Maßnahme des Körpers, u
 **Was tun bei Fieber**:
 
 Sehr wichtig ist eine ausreichende Flüssigkeitszufuhr, denn ein fiebernder Patient muss mehr trinken als ein gesunder Mensch. Appetitmangel bei Fieber ist völlig normal und sollte Sie nicht beunruhigen. Als therapeutische Maßnahme sollten Sie zunächst versuchen, dass Fieber mit Wadenwickel zu senken, was in vielen Fällen auch ausreicht.
+
 Wichtig ist es auch, dem Körper die Ruhe zu gönnen, die er benötigt. Das ist bei Kindern manchmal nicht ganz einfach. Die zu frühe Gabe von fiebersenkenden Mitteln kann sich an dieser Stelle insofern negativ auswirken, dass die Kinder fitter wirken und sich fühlen, als sie wirklich sind und sich nicht die notwendige Ruhe gönnen bzw. überfordern.
+
 Wenn das Kind sehr leidet, Kopf- und Gliederschmerzen hat oder nicht trinken mag, kann die Gabe von fiebersenkenden Mitteln wie Ibuprofen oder Paracetamol sinnvoll sein. Grundsätzlich sollten diese Mittel aber erst ab einer Körpertemperatur von 39,5° C gegeben werden. **Acetylsalicylsäure (z. B. Aspirin) ist bei Kinder nicht erlaubt!**
 
 **Wann zum Arzt**:
