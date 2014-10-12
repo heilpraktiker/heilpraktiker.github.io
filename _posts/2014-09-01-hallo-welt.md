@@ -49,7 +49,8 @@ Suchen Sie bitte den Kinderarzt auf,
 Ein Fieberkrampf ist ein Krampfanfall des Gehirns, der sich durch Bewusstseinsverlust und Muskelzuckungen äußert. 3 – 4 % aller Kinder im Alter von 6 Monaten bis 5 Jahren erleiden mindestens einen Fieberkrampf. Die Neigung hierzu ist oft vererbt.
 Das Kind im Krampfanfall zu sehen, ist für Eltern eine äußerst beängstigende Situation. Diese Anfälle sehen jedoch meistens schlimmer aus als sie sind und dauern in der Regel nur wenige Minuten. Bei den meisten Kindern sind sie ein einmaliges Ereignis.
 Versuchen Sie so ruhig wie möglich zu bleiben. Legen Sie Ihr Kind am besten auf den Boden und sorgen Sie dafür, dass es sich nicht verletzten kann. Halten Sie es nicht fest. Bleiben Sie bei Ihrem Kind und versuchen Sie zu ermitteln, wie lange der Krampf andauert.
-Rufen Sie einen Arzt oder wählen Sie 112. Das Kind wird zur Untersuchung ins Krankenhaus gebracht (Bitte fahren Sie nicht selbst – Sie könnten in der Aufregung einen Unfall verursachen!). Damit Sie für den Fall eines weiteren Fieberkrampfes ausgerüstet sind, wird man Ihnen ein krampflösendes Medikament verschreiben. 
+
+**_Rufen Sie einen Arzt oder wählen Sie 112_**. Das Kind wird zur Untersuchung ins Krankenhaus gebracht (Bitte fahren Sie nicht selbst – Sie könnten in der Aufregung einen Unfall verursachen!). Damit Sie für den Fall eines weiteren Fieberkrampfes ausgerüstet sind, wird man Ihnen ein krampflösendes Medikament verschreiben. 
 Die Neigung zu Fieberkrämpfen verliert sich spätestens im Schulalter. Die Kinder entwickeln sich genauso wie Kinder ohne Fieberkrämpfe – es kommt nicht zu einer Schädigung des Gehirns.
 
 
