@@ -17,9 +17,7 @@ Tel.: 030 / 74 77 11 62 oder mobil: 0177 / 168 33 73
 
 [info@kindernaturheilpraxisberlin.de](mailto:info@kindernaturheilpraxisberlin.de)
 
-Gutzkowstraße 4 
-
-10827 Berlin Schöneberg
+Gutzkowstraße 4, 10827 Berlin Schöneberg
 
 Sie erreichen meine Praxis am einfachsten mit der S-Bahn S1 oder mit allen Ringbahnen (S41 und S42), Haltestelle Schöneberg. Sie nehmen den Ausgang Ebersstraße, überqueren diese und gehen direkt in die vor Ihnen liegende Gustav-Freytag-Straße. Nach ca. 50 m biegen Sie nach links in die Gutzkowstraße - die Hausnummer 4 finden Sie dann auf der linken Seite.
 
