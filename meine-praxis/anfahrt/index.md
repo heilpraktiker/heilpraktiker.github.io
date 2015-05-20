@@ -15,7 +15,7 @@ _Termine nach Vereinbarung - gerne auch Samstags. Bei Bedarf sind auch Hausbesuc
 
 Tel.: 030 / 74 77 11 62 oder mobil: 0177 / 168 33 73
 
-[info@kindernaturheilpraxisberlin.de](mailto:info@kindernaturheilpraxisberlin.de)
+[info@kindernaturheilpraxis.berlin](mailto:info@kindernaturheilpraxisberlin.de)
 
 Gutzkowstraße 4, 10827 Berlin Schöneberg
 
